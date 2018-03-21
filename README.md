@@ -8,14 +8,14 @@
 
 ## Go Resources ##
 
-* [Tour of Go] (https://tour.golang.org/welcome/1)
+* [Tour of Go](https://tour.golang.org/welcome/1)
 
-* [Go Playground] (https://play.golang.org/)
+* [Go Playground](https://play.golang.org/)
 
-* [Go Variables] (https://blog.learngoprogramming.com/learn-go-lang-variables-visual-tutorial-and-ebook-9a061d29babe)
+* [Go Variables](https://blog.learngoprogramming.com/learn-go-lang-variables-visual-tutorial-and-ebook-9a061d29babe)
 
-* [Golang Weekly] (https://golangweekly.com/)
+* [Golang Weekly](https://golangweekly.com/)
 
-* [Go Slack Channel] (https://gophersinvite.herokuapp.com/)
+* [Go Slack Channel](https://gophersinvite.herokuapp.com/)
 
-* [Go Time Podcast] (https://changelog.com/gotime)
+* [Go Time Podcast](https://changelog.com/gotime)

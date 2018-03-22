@@ -2,7 +2,7 @@
 
 ## Installing Go ##
 
-* [Official Guid](https://golang.org/doc/install)
+* [Official Guide](https://golang.org/doc/install)
 
 * The `install_go.sh` script automates the instructions in the guid above. It would need to be modified if you are not on a mac using homebrew. PRs welcome :)
 
